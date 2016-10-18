@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gift name="practical">
+	<gift_name>
+		<product>Gadget ToolBox</product>
+		<description>Amazing tools</description>
+		<price>10.90</price>
+	</gift_name>
+	<gift_name>
+		<product>Gadget ToolBox</product>
+		<description>Amazing tools</description>
+		<price>10.90</price>
+	</gift_name>
+	<gift_name>
+		<product>Gadget ToolBox</product>
+		<description>Amazing tools</description>
+		<price>10.90</price>
+	</gift_name>	
+	<colours main="pink" second="white"/>
+</gift>
