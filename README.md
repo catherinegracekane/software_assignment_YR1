@@ -6,9 +6,9 @@ This was designed around creating a product to suit a users needs, I felt it's d
 
 This represents a basic outline for having a very succint, clear and easy to navigate website.
 
-There is use of HTML, CSS, Javascript and Canvas within the project.
+There is use of HTML, CSS, Javascript, XML and Canvas within the project.
 
-[![Video](http://img.youtube.com/vi/7HixWdAtb2w/0.jpg)](https://www.youtube.com/7HixWdAtb2w&feature=youtu.be )
+[![Video](http://img.youtube.com/vi/7HixWdAtb2w/0.jpg)](https://www.youtube.com/watch?v=7HixWdAtb2w)
 
 
 
