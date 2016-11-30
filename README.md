@@ -8,6 +8,7 @@ This represents a basic outline for having a very succint, clear and easy to nav
 
 There is use of HTML, CSS, Javascript and Canvas within the project.
 
-[![VIDEO](http://img.youtube.com/vi/7HixWdAtb2w-Y/0.jpg)](https://www.youtube.com/7HixWdAtb2w&feature=youtu.be )
+[![Video](http://img.youtube.com/vi/7HixWdAtb2w/0.jpg)](https://www.youtube.com/7HixWdAtb2w&feature=youtu.be )
+
 
 
